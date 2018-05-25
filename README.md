@@ -1,6 +1,8 @@
 # Wk-8-Assignment
 
 RED - CSRF
+
+Changed the parameters via burpsuite for first name and last name make sure you follow redirection if you want it to actually change name on the website itself.
 ![red csrf](https://user-images.githubusercontent.com/37880152/40532884-c689b6d6-5fb5-11e8-845f-05b18af41ca9.gif)
 
 Red IDOR 1
